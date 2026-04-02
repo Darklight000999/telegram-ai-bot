@@ -3,7 +3,7 @@ import requests
 from telegram.ext import Updater, MessageHandler, Filters
 
 # Environment Variables (Railway से आएंगे)
-BOT_TOKEN = os.getenv("8216878019:AAGI_UcfNgk0Y4XrLuf6SZwDocQgawSZ674")
+BOT_TOKEN = os.getenv("8216878019:AAHMs-HkOf6cKLB__-bVBRBcSGLW8H-KB8A")
 API_KEY = os.getenv("AIzaSyBqV0Y4PmhhJoeqyU8pU-2okg9Pv-ofbH0")
 
 def reply(update, context):
